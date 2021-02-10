@@ -43,4 +43,4 @@ $
 ## License
 
 &copy; 2021 [Ken Kurosaki](https://github.com/quinpallet).<br>
-This project is [MIT](https://github.com/quinpallet/line_echo_bot/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/quinpallet/reverse-geocode/blob/master/LICENSE) licensed.
